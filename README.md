@@ -19,5 +19,5 @@ A dynamic banking website permitting transfer of money between multiple users.
 ### Flow of website
 Home> View Customers> Transfer Money> Select customer to transfer to >Transaction History
 
-Database name- mno_bank
+Database name- mno_bank  
 Tables- all_users, transaction_history, subscribers
